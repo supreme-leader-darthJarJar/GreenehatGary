@@ -1,0 +1,20 @@
+{
+  "name": "node_gary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gary-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.7.0",
+    "@discordjs/collection": "^2.0.0",
+    "axios": "^1.6.2",
+    "discord.js": "^13.17.1",
+    "dotenv": "^16.3.1",
+    "openai": "^4.20.1"
+  }
+}
